@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/netflixclone/static/css/main.f1e47aab.css",
-    "main.js": "/netflixclone/static/js/main.2cf3377d.js",
-    "static/media/ntf.png": "/netflixclone/static/media/ntf.f1764271fb8dcb0c3186.png",
+    "main.css": "/netflixclone/static/css/main.964006a4.css",
+    "main.js": "/netflixclone/static/js/main.8f54fe27.js",
     "static/media/Logonetflix.png": "/netflixclone/static/media/Logonetflix.77ba64d8813d5a26e7e7.png",
     "index.html": "/netflixclone/index.html",
-    "main.f1e47aab.css.map": "/netflixclone/static/css/main.f1e47aab.css.map",
-    "main.2cf3377d.js.map": "/netflixclone/static/js/main.2cf3377d.js.map"
+    "main.964006a4.css.map": "/netflixclone/static/css/main.964006a4.css.map",
+    "main.8f54fe27.js.map": "/netflixclone/static/js/main.8f54fe27.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1e47aab.css",
-    "static/js/main.2cf3377d.js"
+    "static/css/main.964006a4.css",
+    "static/js/main.8f54fe27.js"
   ]
 }
